@@ -67,9 +67,7 @@ The Power BI dashboard includes:
 ---
 
 ## Dashboard Preview
-
-![Mobile Sales Dashboard](Images/Dashboard_Preview.png)
----
+![Mobile Sales Dashboard](Dashboard_Preview.png)
 
 ## Project Structure
 ```bash
