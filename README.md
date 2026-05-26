@@ -88,10 +88,10 @@ The project successfully transforms raw sales data into meaningful business insi
 ## Author & Contact
 
 ---
-## Author
+### Author
 Vikash Chauhan
 
-## Contact
+### Contact
 - LinkedIn: www.linkedin.com/in/vikashchauhan01
 - GitHub: https://github.com/Vikashchauhan-dev
 - Email: Vikashchauhan10211@gmail.com
