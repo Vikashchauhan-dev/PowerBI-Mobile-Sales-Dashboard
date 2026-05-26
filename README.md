@@ -80,7 +80,7 @@ README.md
 ```
 ---
 
-# Result & Conclusion
+## Result & Conclusion
 The project successfully transforms raw sales data into meaningful business insights. The dashboard improves decision-making by presenting clear and interactive visual analytics.
 
 ---
