@@ -49,6 +49,9 @@ The following steps were performed:
 7. Insight Generation
 ---
 
+## Dashboard Preview
+![Mobile Sales Dashboard](Dashboard_Preview.png)
+
 ## Key Insights
 - Identified top-performing mobile brands
 - Analyzed monthly sales trends
@@ -66,9 +69,6 @@ The Power BI dashboard includes:
 - Payment Method Distribution
 - Geographic Sales Insights
 ---
-
-## Dashboard Preview
-![Mobile Sales Dashboard](Dashboard_Preview.png)
 
 ## Project Structure
 ```bash
