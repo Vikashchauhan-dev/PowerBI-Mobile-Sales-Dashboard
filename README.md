@@ -13,6 +13,7 @@ The dashboard helps track:
 
 ## Problem Statement
 Businesses often struggle to track sales performance and identify customer trends effectively. This project solves that problem by providing a centralized dashboard for monitoring KPIs, sales growth, and market insights for better decision-making.
+
 ---
 
 ## Dataset Used
@@ -81,10 +82,11 @@ README.md
 
 # Result & Conclusion
 The project successfully transforms raw sales data into meaningful business insights. The dashboard improves decision-making by presenting clear and interactive visual analytics.
+
 ---
 
 # Author & Contact
-
+---
 ## Author
 Vikash Chauhan
 
